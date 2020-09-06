@@ -1,8 +1,3 @@
-̃
-/**
- * Required External Modules
- */
-
 import bodyParser from 'body-parser';
 import cors from "cors";
 import express, { NextFunction, Request, Response } from 'express';
