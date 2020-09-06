@@ -1,4 +1,4 @@
-
+̃
 /**
  * Required External Modules
  */
@@ -27,7 +27,7 @@ app.use('/uppercase', simpleRouter)
  * App Router
  */
 app.get('/', (req: Request, res: Response, next: NextFunction) => {
-    res.send("Welcome CS1951-V!")
+    res.send("Welcome to CS1951-V!")
 })
 
  
